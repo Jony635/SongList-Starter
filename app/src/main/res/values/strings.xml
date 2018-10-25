@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SongList</string>
+    <string name="title_word">Title</string>
+    <string name="save_text">Save</string>
+    <string name="newsong_string">New Song</string>
+</resources>
