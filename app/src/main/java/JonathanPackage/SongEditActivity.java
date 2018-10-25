@@ -22,7 +22,7 @@ public class SongEditActivity extends AppCompatActivity {
 
         yearView = findViewById(R.id.Year);
         Calendar calendar = new GregorianCalendar();
-        yearView.setText(Integer.toString(calendar.get(Calendar.YEAR)););
+        yearView.setText(Integer.toString(calendar.get(Calendar.YEAR)));
     }
 
     public void OnSave(View view) {
